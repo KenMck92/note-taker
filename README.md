@@ -14,7 +14,8 @@ In notes.js I implemented get, post and deleted functions to get data from certa
 
 ## Usage
 
-[!Alt Text](./images/Note-taker%20homepage.png)
-[!Alt Text](./images/Note-taker%20notes%20page.png)
+![Alt Text](./images/Note-taker%20homepage.png)
+
+![Alt Text](./images/Note-taker%20notes%20page.png)
 
 https://noteslm-a6556ec39149.herokuapp.com/
